@@ -1,0 +1,2 @@
+# prolog_for_block_world
+人工智能的一次课设，使用prolog解决积木世界
